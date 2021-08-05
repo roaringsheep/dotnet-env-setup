@@ -1,5 +1,5 @@
 # dotnet-env-setup
-This is environment setup guide for .NET batches. Inspired by [this repo](https://github.com/sophiagavrila/environment-setup){target="_blank"}
+This is environment setup guide for .NET batches. Inspired by [this repo](https://github.com/sophiagavrila/environment-setup)
 
 ## Structure
 The setup guide is modularized to make version updates/technology changes easier.

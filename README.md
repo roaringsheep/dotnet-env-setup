@@ -7,6 +7,3 @@ The setup guide is modularized to make version updates/technology changes easier
   - Tech (dotnet-sdk, git, etc.)
     - img
     - guide.md
-
-## Usage Guide
-Create a new md file using modules, print as pdf, then distribute.

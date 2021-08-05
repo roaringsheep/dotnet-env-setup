@@ -12,7 +12,7 @@ The following technologies are required in order to complete this phase of the p
 
 <br>
 
-- [**.NET 5 SDK*](#-step-2-install-.net5-sdk): We will be utilizing .NET 5 as our primary development platform for the duration of the program. This software development kit will provide the compiler and runtime environment needed to quickly and efficiently develop .NET applications.
+- [**.NET 5 SDK**](#-step-2-install-.net5-sdk): We will be utilizing .NET 5 as our primary development platform for the duration of the program. This software development kit will provide the compiler and runtime environment needed to quickly and efficiently develop .NET applications.
 
 <br>
 

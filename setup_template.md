@@ -18,12 +18,12 @@ We'll be installing the following
 
 3. Click Next through the following 2 screens
 
-    ![git_installer_2](@git.2)
-    ![git_installer_3](@git.3)
+![git_installer_2](@git.2)
+![git_installer_3](@git.3)
 
 4.    Optionally, you can check the "Add a Git Bash profile to Windows Terminal" option.    
 
-    ![git_installer_4](@git.4)
+![git_installer_4](@git.4)
 
 5. You can leave this as is
 

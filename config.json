@@ -1,0 +1,30 @@
+{
+    "templateFile": "setup_template.md",
+    "outputFile": "setup_guide.md",
+    "variables": {
+        "vscode": "https://code.visualstudio.com/",
+        "git": "https://git-scm.com/download/win",
+        "dotnetsdk": "https://dotnet.microsoft.com/en-us/download",
+        "vsc_opening": "images/vsc_opening.png",
+        "gitbash_opening": "images/git_19.png"
+    },
+    "collections": {
+        "vscode": [
+            "images/vscode_0.png", "images/vscode_1.png", "images/vscode_2.png", "images/vscode_3.png", "images/vscode_4.png", "images/vscode_5.png"
+        ],
+        "git": [
+            "images/git_0.png", "images/git_1.png", "images/git_2.png", "images/git_3.png", "images/git_4.png", "images/git_5.png", "images/git_6.png", "images/git_7.png", "images/git_8.png", "images/git_9.png", "images/git_10.png", "images/git_11.png", "images/git_12.png", "images/git_13.png", "images/git_14.png", "images/git_15.png", "images/git_16.png", "images/git_17.png", "images/git_18.png", "images/git_19.png", "images/git_20.png", "images/git_21.png"
+        ],
+        "dotnet": [
+            "images/dotnet_0.png", "images/dotnet_1.png","images/dotnet_2.png","images/dotnet_3.png","images/dotnet_4.png","images/dotnet_5.png"
+        ],
+        "vscode_ext": [
+            "images/vscode_extension_0.png",
+            "images/vscode_extension_1.png",
+            "images/vsc_ext_2.png",
+            "images/vsc_ext_3.png"
+
+
+        ]
+    }
+}
